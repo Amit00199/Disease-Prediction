@@ -14,5 +14,4 @@ The deep learning model implemented in this repository utilizes a neural network
 
 The repository is structured as follows:
 - `model/`: Contains the deep learning model implemented using TensorFlow and Keras.
-- `data/`: Contains the dataset used for training the model.
 - `architecture.md`: Describes the architecture of the mobile application and the role of the disease prediction model.
